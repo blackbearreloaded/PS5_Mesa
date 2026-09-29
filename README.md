@@ -88,3 +88,5 @@ Built with the [PS5 Payload SDK](https://github.com/ps5-payload-dev/sdk) by John
 
 Mesa's licences apply. The files this fork adds are MIT, like the code around
 them.
+
+This project was developed with AI assistance from OpenAI and/or Anthropic tools.
