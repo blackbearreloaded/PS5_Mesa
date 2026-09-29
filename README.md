@@ -84,5 +84,7 @@ compiles on a PC.
 
 ## Licence
 
+Built with the [PS5 Payload SDK](https://github.com/ps5-payload-dev/sdk) by John Törnblom (ps5-payload-dev).
+
 Mesa's licences apply. The files this fork adds are MIT, like the code around
 them.
